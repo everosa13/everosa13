@@ -1,5 +1,9 @@
 <img src="./eve.jpg.png" alt="Banner Dev" width="100%">
- <h1>About me</h1> 
+ <h1>About me</h1><div align="center">
+  <img src="SUA_IMAGEM.png" width="100%">
+  
+  <h2>About me</h2>
+</div> 
   - 
 <!--
 **everosa13/everosa13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
