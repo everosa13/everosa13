@@ -1,8 +1,5 @@
 <img src="./eve.jpg.png" alt="Banner Dev" width="100%">
  <h1>About me</h1><div align="center">
-  <img src="SUA_IMAGEM.png" width="100%">
-  
-  <h2>About me</h2>
 </div> 
   - 
 <!--
